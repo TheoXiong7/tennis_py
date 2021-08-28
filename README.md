@@ -1,5 +1,5 @@
 # tennis_py
-This project uses openCV and various image processing techniques to detect tennis balls. I am still working on the accuracy and I am also intending on implementing detection of tennis court lines.
+This project uses openCV and various image processing techniques to detect tennis balls. Accuracy and detection of tennis court lines are being implemented.
 
 ## Efficiency & Accuracy
 On the tested machine, the program ran at 32fps; however, the accuracy still lacks in lower lighting and when there are multiple tennis balls in frame.
